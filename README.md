@@ -8,4 +8,5 @@ Libraries and tools used:
 * Authentication Manager : Enables user implementation for authentication.
 * Java Keystore class : For storing cryptographic keys and certificates.
 * JWT : Used Json web tokens, instead of session tokens.
+* @EnableAsync : Enabled asynchronous processing using the annotation, which decreased the loading time from 10 sec to 0.3 sec.
 
